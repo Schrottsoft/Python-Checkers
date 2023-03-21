@@ -1,1 +1,1 @@
-# Python-Checkers
+# Python-Checkers (Dame)
